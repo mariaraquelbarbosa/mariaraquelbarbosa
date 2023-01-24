@@ -1,9 +1,12 @@
 # Hello, Welcome to my Github profile.
 ## My name is Maria Raquel! 👋🏽
 
-- 🔭 I’m currently working with Digital Marketing
-- 🌱 I’m currently studying Business Administration at the University of São Paulo (USP)
-- 😄 Pronouns: she/her
+😄 Pronouns: she/her <br /> 🔭 I am currently working with Digital Marketing <br /> 📚 I am currently studying Business Administration at the University of São Paulo (USP) <br /> 🌱 I am currently learning...
+<div style = "display: inline_block">
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+</div>
 
 ##
 
@@ -11,12 +14,6 @@
   <a href="https://github.com/mariaraquelbarbosa">
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=mariaraquelbarbosa&show_icons=true&theme=radical#gh-radical-mode-only&show_owner=true)](https://github.com/anuraghazra/github-readme-stats#gh-radical-mode-only"/>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaraquelbarbosa&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
-<div style = "display: inline_block">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
 ##
