@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/mariaraquelbarbosa">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=mariaraquelbarbosa&show_icons=true&theme=cobalt#gh-cobalt-mode-only&show_owner=true)](https://github.com/anuraghazra/github-readme-stats#gh-cobalt-mode-only"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaraquelbarbosa&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=mariaraquelbarbosa&show_icons=true&theme=radical#gh-radical-mode-only&show_owner=true)](https://github.com/anuraghazra/github-readme-stats#gh-radical-mode-only"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaraquelbarbosa&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 ##
