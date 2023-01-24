@@ -1,7 +1,7 @@
 # Hello, Welcome to my Github profile.
 ## My name is Maria Raquel! 👋🏽
 
-😄 Pronouns: she/her <br /> 🔭 I am currently working with Digital Marketing <br /> 📚 I am currently studying Business Administration at the University of São Paulo (USP) <br /> 🌱 I am currently learning...
+😄 Pronouns: she/her <br /> 🔭 I work with Digital Marketing <br /> 📚 I am studying Business Administration at the University of São Paulo (USP) <br /> 🌱 I am currently learning...
 <div style = "display: inline_block">
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
