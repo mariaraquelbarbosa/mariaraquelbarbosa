@@ -25,7 +25,6 @@
 <p align="center"><b>Visitor Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/{mariaraquelbarbosa}/count.svg" /></p> 
 </div>
-##
 
 <div align="center">
   <a href="https://github.com/mariaraquelbarbosa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
