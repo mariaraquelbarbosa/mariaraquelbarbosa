@@ -1,5 +1,4 @@
-# Hello, Welcome to my Github profile.
-## My name is Maria Raquel! 👋🏽
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=25&duration=6000&pause=1000&color=E25908&vCenter=true&width=500&lines=My+name+is+Maria+Raquel!+%F0%9F%91%8B%F0%9F%8F%BD;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
 
 😄 Pronouns: she/her <br /> 📚 I am studying Business Administration at the University of São Paulo (USP) <br /> 👩‍💻 I am a member of FEA.dev, a student society that aims to study the application of programming in the business world <br /> 🌱 I am currently learning...
 <div style = "display: inline_block">
