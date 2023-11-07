@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/mariaraquelbarbosa">
-  <img height="180em" width="41%" src="https://github-readme-stats.vercel.app/api?username=mariaraquelbarbosa&show_icons=true&theme=gruvbox#gh-gruvbox-mode-only&show_owner=true)](https://github.com/anuraghazra/github-readme-stats#gh-gruvbox-mode-only"/>
-  <img height="180em" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaraquelbarbosa&layout=compact&langs_count=16&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaraquelbarbosa&show_icons=true&theme=gruvbox#gh-gruvbox-mode-only&show_owner=true)](https://github.com/anuraghazra/github-readme-stats#gh-gruvbox-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaraquelbarbosa&layout=compact&langs_count=16&theme=gruvbox"/>
   </a>
 </div>
 
