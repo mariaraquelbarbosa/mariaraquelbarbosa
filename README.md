@@ -4,7 +4,7 @@
   </a>
 </p>
 
-😄 Pronouns: she/her <br /> 📚 Undergraduate Degree in Business Administration the University of São Paulo (USP) <br /> 💼 FP&A Junior Analyst at a Tech Company <br /> 👩‍💻 Member of FEA.dev, a student society that aims to study the application of programming in the business world <br /> 🌱 I am currently learning...
+😄 Pronouns: she/her <br /> 📚 Undergraduate Degree in Business Administration from the University of São Paulo (USP) <br /> 💼 FP&A Junior Analyst at a Tech Company <br /> 👩‍💻 Member of FEA.dev, a student society that aims to study the application of programming in the business world <br /> 🌱 I am currently learning...
 <div align="center" style = "display: inline_block">
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
