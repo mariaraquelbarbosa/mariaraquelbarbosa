@@ -22,7 +22,6 @@
 
 ##
 <div align = "center" >
-<p align="center"><b>Visitors Count</b></p>
   <img src="https://komarev.com/ghpvc/?username=mariaraquelbarbossa&color=orange&style=for-the-badge" />
 </p>
 
