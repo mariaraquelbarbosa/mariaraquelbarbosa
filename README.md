@@ -23,8 +23,9 @@
 ##
 <div align = "center" >
 <p align="center"><b>Visitor Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/{mariaraquelbarbosa}/count.svg" /></p> 
-</div>
+  <img src="https://komarev.com/ghpvc/?username=mariaraquelbarbossa&color=orange&style=for-the-badge" />
+</p>
+
 
 ##
 <div align="center">
